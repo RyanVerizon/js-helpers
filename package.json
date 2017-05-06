@@ -1,0 +1,8 @@
+{
+  "name": "js-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RyanVerizon/js-helpers.git",
+  "author": "Ryan Wang <so.justrr@gmail.com>",
+  "license": "MIT"
+}
